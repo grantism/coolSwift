@@ -31,6 +31,7 @@ A list of useful Swift projects &amp; libraries
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - map objects
 
 ### Networking
+* [AlamoFire](https://github.com/Alamofire/Alamofire) - an HTTP networking library written in Swift.
 * [TRON](https://github.com/MLSDev/TRON) - lightweight REST/ networking lib built on top of alamoFire.
 
 ## Tools
