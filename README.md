@@ -1,6 +1,8 @@
 # coolSwift
 A list of useful Swift projects &amp; libraries
 - [Libraries](#Libraries)
+  - [JSON Parsing](#JSON Parsing)
+  - [JSON - Model Mapping] (#JSON - Model Mapping)
 - [Tools](#Tools)
 
 ## Libraries & Frameworks
@@ -13,8 +15,15 @@ A list of useful Swift projects &amp; libraries
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - cool animation library.
 * [SwiftyDB](https://github.com/Oyvindkg/swiftydb) - a daatabse for swift.
 
-### JSON
+### JSON Parsing
 * [Freddy](https://github.com/bignerdranch/Freddy) - cool JSON library.
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - SwiftyJSON makes it easy to deal with JSON data in Swift.
+
+### JSON - Model Mapping
+* [mapper](https://github.com/lyft/mapper) - a JSON deserialisation library.
+* [Tailor](https://github.com/zenangst/Tailor) - simple object mapper.
+* [Decodable](https://github.com/Anviking/Decodable) - object mapper.
+* [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - map objects
 
 ### Networking
 * [TRON](https://github.com/MLSDev/TRON) - lightweight REST/ networking lib built on top of alamoFire.
