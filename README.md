@@ -28,7 +28,8 @@ A list of useful Swift projects &amp; libraries
 * [mapper](https://github.com/lyft/mapper) - a JSON deserialisation library.
 * [Tailor](https://github.com/zenangst/Tailor) - simple object mapper.
 * [Decodable](https://github.com/Anviking/Decodable) - object mapper.
-* [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - map objects
+* [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - map objects to models.
+* [AlamoFireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An extension to Alamofire which automatically converts JSON response data into swift objects using ObjectMapper.
 
 ### Networking
 * [AlamoFire](https://github.com/Alamofire/Alamofire) - an HTTP networking library written in Swift.
