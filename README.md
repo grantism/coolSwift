@@ -1,5 +1,6 @@
-# coolSwift
-A list of useful Swift projects &amp; libraries
+# Cool Swift
+A list of useful Swift projects &amp; libraries.
+
 - [Libraries](#Libraries)
   - [JSON Parsing](#JSON Parsing)
   - [JSON - Model Mapping](#JSON - Model Mapping)
@@ -20,6 +21,7 @@ A list of useful Swift projects &amp; libraries
 * [FillableLoaders](https://github.com/poolqf/FillableLoaders) - Customisable progress monitor.
 * [PullToBounce](https://github.com/entotsu/PullToBounce) - Custom pull to refresh animation.
 * [Gecco](https://github.com/yukiasai/Gecco) - Highlight items for use in walkthrough tutorials.
+* [Instructions](https://github.com/ephread/Instructions) - Add customizable coach marks into you iOS project. Instructions will makes your life easier, I promise. Available for both iPhone and iPad.
 * [Eureka](https://github.com/xmartlabs/Eureka) - Create dynamic table-view forms from a DSL specification in Swift.
 
 
