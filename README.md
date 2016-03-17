@@ -12,6 +12,7 @@ A list of useful Swift projects &amp; libraries.
 ## Libraries & Frameworks
 * [Tactile](https://github.com/delba/Tactile) - A Simple way to handle gestures.
 * [Hue](https://github.com/hyperoslo/Hue) - An all in one colour library.
+* [UIImageColors](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage wiht a bunch of extra useful functionality.
 * [Swift algorithm club](https://github.com/hollance/swift-algorithm-club) - a list of common alogrithms implemented in swift.
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - cool animation library.
 * [SwiftyDB](https://github.com/Oyvindkg/swiftydb) - a database for swift.
