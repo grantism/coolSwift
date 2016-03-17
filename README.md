@@ -4,7 +4,9 @@ A list of useful Swift projects &amp; libraries
   - [JSON Parsing](#JSON Parsing)
   - [JSON - Model Mapping](#JSON - Model Mapping)
   - [UI Elements](#UIElements)
+  - [Permissions](#Permissions)
 - [Tools](#Tools)
+- [Resources](#Resources)
 
 ## Libraries & Frameworks
 * [Tactile](https://github.com/delba/Tactile) - A Simple way to handle gestures.
@@ -18,6 +20,7 @@ A list of useful Swift projects &amp; libraries
 * [FillableLoaders](https://github.com/poolqf/FillableLoaders) - Customisable progress monitor.
 * [PullToBounce](https://github.com/entotsu/PullToBounce) - Custom pull to refresh animation.
 * [Gecco](https://github.com/yukiasai/Gecco) - Highlight items for use in walkthrough tutorials.
+* [Eureka](https://github.com/xmartlabs/Eureka) - Create dynamic table-view forms from a DSL specification in Swift.
 
 
 ### JSON Parsing
@@ -34,6 +37,15 @@ A list of useful Swift projects &amp; libraries
 ### Networking
 * [AlamoFire](https://github.com/Alamofire/Alamofire) - an HTTP networking library written in Swift.
 * [TRON](https://github.com/MLSDev/TRON) - lightweight REST/ networking lib built on top of alamoFire.
+* [Siesta](https://github.com/bustoutsolutions/siesta) - Drastically simplifies app code by providing a client-side cache of observable models for RESTful resources.
+
+### Permissions
+* [ICanHas](https://github.com/wircho/ICanHas) - Simplifies iOS user permission requests (location, push notifications, camera, contacts, calendar, photos, etc).
+* [PermissionScope](https://github.com/nickoneill/PermissionScope) - ramework for intelligently requesting permissions from users. It contains not only a simple UI to request permissions but also a unified permissions API that can tell you the status of any given system permission or easily request them.
 
 ## Tools
 * [Principle](http://principleformac.com/) - quickly create animated interactive UI mock ups.
+* 
+
+##Resources
+* [iOS Cookies](http://www.ioscookies.com) - A hand curated list of frameworks
