@@ -1,15 +1,16 @@
 # Cool Swift
 A list of useful Swift projects &amp; libraries.
 
-- [Libraries](#Libraries)
-  - [JSON Parsing](#JSON-Parsing)
-  - [JSON - Model Mapping](#JSON-Model-Mapping)
-  - [UI Elements](#ui-elements)
+- [Libraries and Frameworks](#libraries-and-frameworks)
+  - [UI Elements](#ui-elements)  
+  - [JSON Parsing](#json-parsing)
+  - [JSON Model Mapping](#json-model-mapping)
+  - [Networking](#networking)
   - [Permissions](#permissions)
-- [Tools](#Tools)
-- [Resources](#Resources)
+- [Tools](#tools)
+- [Resources](#resources)
 
-## Libraries & Frameworks
+## Libraries and Frameworks
 * [Tactile](https://github.com/delba/Tactile) - A Simple way to handle gestures.
 * [Hue](https://github.com/hyperoslo/Hue) - An all in one colour library.
 * [UIImageColors](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage wiht a bunch of extra useful functionality.
@@ -32,7 +33,7 @@ A list of useful Swift projects &amp; libraries.
 * [Freddy](https://github.com/bignerdranch/Freddy) - Cool JSON library.
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - SwiftyJSON makes it easy to deal with JSON data in Swift.
 
-### JSON - Model Mapping
+### JSON Model Mapping
 * [mapper](https://github.com/lyft/mapper) - A JSON deserialisation library.
 * [Tailor](https://github.com/zenangst/Tailor) - Simple object mapper.
 * [Decodable](https://github.com/Anviking/Decodable) - Object mapper.
@@ -53,5 +54,5 @@ A list of useful Swift projects &amp; libraries.
 * [Principle](http://principleformac.com/) - quickly create animated interactive UI mock ups.
 * [Refactorator](https://github.com/johnno1962/Refactorator) - Xcode plugin for refactoring Swift & now Objective-C code. It will rename public or internal vars, functions, enums etc. For private and local entities use Xcode's existing "Edit All in Scope" functionality.
 
-##Resources
+## Resources
 * [iOS Cookies](http://www.ioscookies.com) - A hand curated list of frameworks.
