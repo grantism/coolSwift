@@ -17,6 +17,7 @@ A list of useful Swift projects &amp; libraries.
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - cool animation library.
 * [SwiftyDB](https://github.com/Oyvindkg/swiftydb) - a database for swift.
 * [AsyncKit](https://github.com/mishimay/AsyncKit) - Utilities for asynchronous code inspired by JavaScript module async.
+* [Buglife](https://github.com/Buglife/Buglife-iOS) - an awesome bug reporting SDK & web platform for iOS apps
 
 ### UI Elements
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh compontent developed in Swift.
