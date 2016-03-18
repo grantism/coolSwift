@@ -2,10 +2,10 @@
 A list of useful Swift projects &amp; libraries.
 
 - [Libraries](#Libraries)
-  - [JSON Parsing](#JSON Parsing)
-  - [JSON - Model Mapping](#JSON - Model Mapping)
-  - [UI Elements](#UIElements)
-  - [Permissions](#Permissions)
+  - [JSON Parsing](#JSON-Parsing)
+  - [JSON - Model Mapping](#JSON-Model-Mapping)
+  - [UI Elements](#ui-elements)
+  - [Permissions](#permissions)
 - [Tools](#Tools)
 - [Resources](#Resources)
 
