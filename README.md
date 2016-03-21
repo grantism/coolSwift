@@ -28,6 +28,7 @@ A list of useful Swift projects &amp; libraries.
 * [Gecco](https://github.com/yukiasai/Gecco) - Highlight items for use in walkthrough tutorials.
 * [Instructions](https://github.com/ephread/Instructions) - Add customizable coach marks into you iOS project. Instructions will makes your life easier, I promise. Available for both iPhone and iPad.
 * [Eureka](https://github.com/xmartlabs/Eureka) - Create dynamic table-view forms from a DSL specification in Swift.
+* [FlourishUI](https://github.com/thinkclay/FlourishUI) - highly configurable, out-of-the-box-pretty, User Interface library/kit thingy. It has a minimal set of UI components now, but already packs quite a punch with the UIColor extension, animated Material-inspired buttons, and modal views.
 
 
 ### JSON Parsing
