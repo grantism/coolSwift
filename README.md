@@ -20,6 +20,7 @@ A list of useful Swift projects &amp; libraries.
 * [AsyncKit](https://github.com/mishimay/AsyncKit) - Utilities for asynchronous code inspired by JavaScript module async.
 * [Buglife](https://github.com/Buglife/Buglife-iOS) - An awesome bug reporting SDK & web platform for iOS apps.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - A thoughtful and complete implementation of promises for iOS and OS X with first-class support for both Objective-C and Swift.
+* [SwitfZ](https://github.com/typelift/Swiftz) - A Swift library for functional programming.
 
 ### UI Elements
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh compontent developed in Swift.
