@@ -34,7 +34,7 @@ A list of useful Swift projects &amp; libraries.
 * [PeekPop](https://github.com/marmelroy/PeekPop) - Swift framework that brings backwards-compatibility to Peek and Pop.
 * [Charts](https://github.com/danielgindi/Charts) - Charts library for iOS.
 * [PNChart](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib with animation.
-
+* [MEVFloatingButton](https://github.com/manuelescrig/MEVFloatingButton) - An iOS drop-in UITableView, UICollectionView, UIScrollView superclass category for showing a customizable floating button on top of it.
 
 ### JSON Parsing
 * [Freddy](https://github.com/bignerdranch/Freddy) - Cool JSON library.
