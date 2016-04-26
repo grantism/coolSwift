@@ -56,6 +56,7 @@ A list of useful Swift projects &amp; libraries.
 ### Permissions
 * [ICanHas](https://github.com/wircho/ICanHas) - Simplifies iOS user permission requests (location, push notifications, camera, contacts, calendar, photos, etc).
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - Framework for intelligently requesting permissions from users. It contains not only a simple UI to request permissions but also a unified permissions API that can tell you the status of any given system permission or easily request them.
+* [Permission](https://github.com/delba/Permission) - Permission exposes a unified API to request permissions on iOS.
 
 ## Tools
 * [Principle](http://principleformac.com/) - quickly create animated interactive UI mock ups.
