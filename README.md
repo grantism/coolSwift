@@ -18,6 +18,7 @@ A list of useful Swift projects &amp; libraries.
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - cool animation library.
 * [SwiftyDB](https://github.com/Oyvindkg/swiftydb) - A database for swift.
 * [AsyncKit](https://github.com/mishimay/AsyncKit) - Utilities for asynchronous code inspired by JavaScript module async.
+* [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [Buglife](https://github.com/Buglife/Buglife-iOS) - An awesome bug reporting SDK & web platform for iOS apps.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - A thoughtful and complete implementation of promises for iOS and OS X with first-class support for both Objective-C and Swift.
 * [SwitfZ](https://github.com/typelift/Swiftz) - A Swift library for functional programming.
