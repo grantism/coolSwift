@@ -25,6 +25,7 @@ A list of useful Swift projects &amp; libraries.
 * [Nifty](https://github.com/ElvishJerricco/Nifty) - Library of asynchronous utilities for everyday programmers.
 * [StateView](https://github.com/sahandnayebaziz/StateView) - A UIView substitute that automatically updates itself when data changes.
 * [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) - A simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.
+* [DeviceKit](https://github.com/dennisweissmann/DeviceKit) - A value-type replacement of UIDevice.
 
 ### UI Elements
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh compontent developed in Swift.
