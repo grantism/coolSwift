@@ -40,6 +40,7 @@ A list of useful Swift projects &amp; libraries.
 * [PNChart](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib with animation.
 * [MEVFloatingButton](https://github.com/manuelescrig/MEVFloatingButton) - An iOS drop-in UITableView, UICollectionView, UIScrollView superclass category for showing a customizable floating button on top of it.
 * [Interpolate](https://github.com/marmelroy/Interpolate) - powerful Swift interpolation framework for creating interactive gesture-driven animations.
+* [Blurable](https://github.com/FlexMonkey/Blurable) - Apply a Gaussian Blur to any UIView with Swift Protocol Extensions.
 
 ### JSON Parsing
 * [Freddy](https://github.com/bignerdranch/Freddy) - Cool JSON library.
