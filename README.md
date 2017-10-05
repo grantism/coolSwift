@@ -72,4 +72,4 @@ A list of useful Swift projects &amp; libraries.
 ## Resources
 * [iOS Cookies](http://www.ioscookies.com) - A hand curated list of frameworks.
 * [7 Types of Animations for Your Mobile App](https://yalantis.com/blog/-seven-types-of-animations-for-mobile-apps/) - interesting article about animations and their place in UI/UX.
-*[Modular Xcode projects](http://ppinera.es/2017/09/29/modular-xcode-projects.html) - A great explanation of Xcode project structure.
+* [Modular Xcode projects](http://ppinera.es/2017/09/29/modular-xcode-projects.html) - A great explanation of Xcode project structure.
